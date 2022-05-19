@@ -1,4 +1,5 @@
-Hi there
+### 👋Hi there
+I'm game developer with unity!
 
 ### 💪 Skills
 #### Platforms & Languages
