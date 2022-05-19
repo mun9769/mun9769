@@ -1,17 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90" />
 
-
+<center>
 ### 💪 Skills
 #### Platforms & Languages
+</center>
 <p>
+  <center>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/CSharp-239120?logo=Csharp&style=flat">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub">
   
 <img src="https://img.shields.io/badge/DotNet-512BD4?style=flat&logo=DotNet">
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub">
-
+  </center>
   
 </p>
 
