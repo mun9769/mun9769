@@ -1,5 +1,5 @@
 ### 👋Hi there
-I'm game developer with unity!
+I'm developer with unity and flutter!
 
 ### 💪 Skills
 #### Platforms & Languages
