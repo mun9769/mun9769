@@ -1,5 +1,5 @@
 ### 👋Hi there
-I'm developer with unity and flutter and javascript!
+I'm developer with SwiftUI and SpringBoot
 
 ### 💪 Skills
 #### Platforms & Languages
