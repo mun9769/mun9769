@@ -1,20 +1,19 @@
 ### 👋Hi there
-I'm developer with SwiftUI and SpringBoot
+I'm developer with SwiftUI and Flutter
 
 ### 💪 Skills
 #### Platforms & Languages
 
 <p>
+  
+<img src="https://img.shields.io/badge/Swift-5.5-FA7343?logo=swift">
+<img src="https://img.shields.io/badge/SwiftUI-1976D2?logo=swift&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart">  
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity">
-<img src="https://img.shields.io/badge/CSharp-239120?logo=Csharp&style=flat">
 <img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=Vim">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub">  
 <img src="https://img.shields.io/badge/DotNet-512BD4?style=flat&logo=DotNet">
-
-
   
 </p>
 
