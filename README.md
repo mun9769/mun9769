@@ -29,11 +29,13 @@ I'm developer with SwiftUI and Flutter
 ### My Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=mun9769&theme=chalk&row=2&column=5&rank=-B,-C)](https://github.com/ryo-ma/github-profile-trophy)
 
+### BaekJoon
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mun9769)
+
 </div>
 
 
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mun9769)
 
 <!--
 **mun9769/mun9769** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
