@@ -32,15 +32,14 @@ SwiftUI와 Flutter를 사용하는 개발자입니다
    - 2019-03 ~ 
 
 
-<div align="center">
+<div align="">
   
-### My Streak
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=mun9769&theme=blueberry_duo)](https://github.com/mun9769)
-
+<!-- ### My Streak
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=mun9769&theme=blueberry_duo)](https://github.com/mun9769) 
 ### My Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=mun9769&theme=chalk&row=2&column=5&rank=-B,-C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mun9769&theme=chalk&row=2&column=5&rank=-B,-C)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-### BaekJoon
+### 🫒 BaekJoon
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mun9769)
 
 </div>
