@@ -23,7 +23,7 @@ SwiftUI와 Flutter를 사용하는 개발자입니다
 ### 🎓 Education
  - 애플 디벨로퍼 아카데미 
    - 2023-03 ~ 2023-12 (9 months)
-   - studied Swift, SwfitUI, HIG, git/github
+   - Swift, SwfitUI, HIG, Git/Github을 배웠어요
    - 총 3가지의 팀프로젝트를 완수했어요!
    <!-- - 프로젝트 보러가기 TODO -->
 
