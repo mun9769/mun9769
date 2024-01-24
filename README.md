@@ -1,5 +1,6 @@
 ### 👋 HI
 SwiftUI와 Flutter를 사용하는 개발자입니다
+단순한 코드, 단순한 아키텍처를 지향하는 미니멀리스트입니다
 
 ### 💪 Skills
 #### Platforms & Languages
