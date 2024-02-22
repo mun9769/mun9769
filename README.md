@@ -5,14 +5,13 @@
 #### Platforms & Languages
 
 <p>
-<img src="https://img.shields.io/badge/Swift-5.5-FA7343?logo=swift">
-<img src="https://img.shields.io/badge/SwiftUI-1976D2?logo=swift&logoColor=white">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart">  
-<img src="https://img.shields.io/badge/Vim-019733?style=flat&logo=Vim">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub">  
-<img src="https://img.shields.io/badge/DotNet-512BD4?style=flat&logo=DotNet">
+ <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+ <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white">
+ <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+ <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+ <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
+ <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+ <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
 </p>
 
 
