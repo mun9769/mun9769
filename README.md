@@ -1,6 +1,3 @@
-### 👋 HI
-단순한 코드, 단순한 아키텍처를 지향하는 미니멀리스트 개발자입니다
-
 ### 💪 Skills
 <!-- #### Platforms & Languages -->
 
@@ -12,10 +9,10 @@
  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white">
 </p>
 
-
+<!--
 ### 🍕 Enjoy side projects.
  - [인하밥먹자](https://apps.apple.com/kr/app/%EC%9D%B8%ED%95%98%EB%B0%A5%EB%A8%B9%EC%9E%90/id6474684321) - 대학교 학식을 알려주는 앱
-
+-->
 ### 🎓 Education
 
  - 인하대학교 정보통신공학과
