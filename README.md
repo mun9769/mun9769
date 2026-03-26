@@ -13,9 +13,10 @@
 ### 🍕 Enjoy side projects.
  - [인하밥먹자](https://apps.apple.com/kr/app/%EC%9D%B8%ED%95%98%EB%B0%A5%EB%A8%B9%EC%9E%90/id6474684321) - 대학교 학식을 알려주는 앱
 -->
+
 ### 🎓 Education
 
- - 인하대학교 정보통신공학과
+ - 인하대학교 전기전자공학과
    - 2019-03 ~ 2026-02
 
  - 삼성 24 동계 대학생 S/W 알고리즘 특강
